@@ -1,2 +1,2 @@
-# yandex_praktikum_ds
-Yandex.Praktikum Data Science projects 
+# Вспомогательные проекты
+В данной папке собраны вспомогательные и тестовые проекты
