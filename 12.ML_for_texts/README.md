@@ -8,4 +8,4 @@
 Создать модель, которая будет определять окраску текста
 
 ## Используемые библиотеки
-`pandas` `numpy` `sklearn` `seaborn` `lgbm` `time` `statsmodels`
+`pandas` `numpy` `sklearn` `nltk` `tqdm`
